@@ -18,7 +18,7 @@ repositories {
 }
 
 dependencies {
-    compileOnly("me.totalfreedom.scissors:scissors-api:1.17.1-R0.1-SNAPSHOT")
+    compileOnly("me.totalfreedom.scissors:Scissors-API:1.19.4-R0.1-SNAPSHOT")
     compileOnly("net.essentialsx:EssentialsX:2.19.7")
 
     compileOnly("me.totalfreedom:TotalFreedomMod:2021.09")

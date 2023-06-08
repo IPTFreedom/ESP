@@ -3,7 +3,7 @@ package com.github.allinkdev.esp;
 import com.earth2me.essentials.CommandSource;
 import com.earth2me.essentials.Essentials;
 import com.earth2me.essentials.User;
-import com.github.atlasmediagroup.scissors.event.player.SpectatorTeleportEvent;
+import me.totalfreedom.scissors.event.player.SpectatorTeleportEvent;
 import me.totalfreedom.totalfreedommod.TotalFreedomMod;
 import me.totalfreedom.totalfreedommod.player.FPlayer;
 import org.bukkit.Bukkit;
